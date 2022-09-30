@@ -3,4 +3,4 @@ I'm a student at Cairo University, Faculty of Computer Science and Artificial In
 👯 I’m looking to collaborate on open source ML, and DL projects and some problem-solving challenges. 
 📫 How to reach me: ezzeldinnasser0@gmail.com
 🗣️ languages: Arabic / English.
-⚡ Fun fact: I'm a gamer FiFa so come and try to beat me.![Uploading future-gaming.gif…]()
+⚡ Fun fact: I'm a gamer FiFa so come and try to beat me.
