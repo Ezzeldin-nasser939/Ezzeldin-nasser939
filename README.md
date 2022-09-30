@@ -1,6 +1,6 @@
-Student at the Faculty of Computers and Artificial Intelligence I have the basics of machine learning and deep learning, and the basics of data analysis and its use in decision-making and problem solving, I have a desire to improve and increase these experiences and am looking for an internship
-
-<!---
-Ezzeldin-nasser939/Ezzeldin-nasser939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student at Cairo University, Faculty of Computer Science and Artificial Intelligence, and specialized in AI.
+🌱 I’m currently learning to be a Data Science.
+👯 I’m looking to collaborate on open source ML, and DL projects and some problem-solving challenges. 
+📫 How to reach me: ezzeldinnasser0@gmail.com
+🗣️ languages: Arabic / English.
+⚡ Fun fact: I'm a gamer FiFa so come and try to beat me.![Uploading future-gaming.gif…]()
