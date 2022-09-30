@@ -2,6 +2,7 @@
 
 I'm a student at Cairo University, Faculty of Computer Science and Artificial Intelligence, and specialized in AI.
 
+<img scr=future-gaming.gif width=100>
 
 🌱 I’m currently learning to be a Data Science.
 
