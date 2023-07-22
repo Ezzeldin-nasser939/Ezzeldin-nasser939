@@ -1,5 +1,5 @@
- # Hello there 👋|I'm Ezz eldin. You can call me Zezo
- ## I graduated from Cairo University, Faculty of Computer Science and Artificial Intelligence, specializing in AI.
+ ** Hello there 👋|I'm Ezz eldin. You can call me Zezo**
+ <sub> </sub> I graduated from Cairo University, Faculty of Computer Science and Artificial Intelligence, specializing in AI.
  
  ![](https://github.com/Ezzeldin-nasser939/Ezzeldin-nasser939/blob/main/future-gaming.gif)
    
