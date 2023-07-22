@@ -2,7 +2,7 @@
 
 I'm a student at Cairo University, Faculty of Computer Science and Artificial Intelligence, and specialized in AI.
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Ezzeldin-nasser939/Ezzeldin-nasser939/blob/main/future-gaming.gif))
+![](https://github.com/Ezzeldin-nasser939/Ezzeldin-nasser939/blob/main/future-gaming.gif)
 
 🌱 I’m currently learning to be a Data Science.
 
