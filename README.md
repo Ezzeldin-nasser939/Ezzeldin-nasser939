@@ -1,4 +1,4 @@
- #**Hello there 👋|I'm Ezz eldin. You can call me Zezo**
+ # **Hello there 👋|I'm Ezz eldin. You can call me Zezo**
 
   <sub> </sub>**I graduated from Cairo University, Faculty of Computer Science and Artificial Intelligence, specializing in AI.**
  
